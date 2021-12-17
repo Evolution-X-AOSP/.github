@@ -18,4 +18,4 @@ Kindly visit the following repositories:
 
 After visiting the said repositories, familiarize yourself with the different repos we track so that issues can be lessened with proper PRs.
 
-Feel free to visit our website for more information on how to apply as a maintainer. Thanks!
+Feel free to visit our [website](https://evolution-x.org) for more information on how to apply as a maintainer. Thanks!
