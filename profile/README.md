@@ -7,17 +7,17 @@ Evolution X
 
 Welcome to Evolution X!
 
-Evolution X aims to allow users to experience Google's latest Pixel devices while integrating useful features from the custom ROMs that we know and love.
+Evolution X allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 
 We are currently on Android 12.1, with the latest security patches from Google.
 
-### Starter guide
+### Beginner guide
 
 Visit these important repositories:
 
 - [Manifest](https://github.com/Evolution-X/manifest)
 - [Vendor](https://github.com/Evolution-X/vendor_evolution)
-- [Evolution-X-Devices](https://github.com/Evolution-X-Devices)
+- [Devices](https://github.com/Evolution-X-Devices)
 
 1. You may use [this](https://github.com/Evolution-X-Devices/device_xiaomi_raphael/commit/16fb4644fcfe3d2d73f27a8ef907451acf6d39e2) commit as a reference.
 2. Follow the intructions in the [manifest](https://github.com/Evolution-X/manifest) repo to initialize the working directory.
@@ -30,5 +30,5 @@ Visit [this link](https://wiki.evolution-x.org/apply-for-maintainership) for mor
 - [Website](https://evolution-x.org)
 - [Telegram channel](https://t.me/EvolutionXOfficial)
 - [Telegram group](https://t.me/EvolutionX)
-- [Current supported devices](https://github.com/Evolution-X-Devices/official_devices/tree/master/builds)
+- [Supported devices](https://github.com/Evolution-X-Devices/official_devices/tree/master/builds)
 - [Changelogs](https://github.com/Evolution-X-Devices/official_devices/tree/master/changelogs)
