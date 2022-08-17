@@ -1,15 +1,15 @@
-![Evolution X](https://github.com/Evolution-X/manifest/raw/ten/EvoBanner.png)
+![Evolution X](https://github.com/Evolution-X/manifest/raw/tiramisu/EvoBanner.png)
 
 Evolution X
 ===========
 
-[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files/latest/download)
+[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files)
 
 Welcome to Evolution X!
 
 Evolution X allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 
-We are currently on Android 12.1, with the latest security patches from Google.
+We currently support Android 13 (WIP) and Android 12.1, with the latest security patches from Google.
 
 ### Beginner guide
 
