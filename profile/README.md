@@ -1,4 +1,4 @@
-![Evolution X](https://github.com/Evolution-X/manifest/raw/tiramisu/EvoBanner.png)
+![Evolution X](https://raw.githubusercontent.com/Evolution-X/.github/main/EvoBanner.png)
 
 Evolution X
 ===========
