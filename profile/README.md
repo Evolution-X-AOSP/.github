@@ -9,7 +9,7 @@ Welcome to Evolution X!
 
 Evolution X allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 
-We currently support Android 13, with the latest security patches from Google.
+We currently support Android 13 (tiramisu branch) and Android 14 (udc branch), with the latest security patches from Google.
 
 ### Beginner guide
 
